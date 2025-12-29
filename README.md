@@ -1,0 +1,1 @@
+Yes, Yes i know. some of the codes here are average, and some are downright messy *cough* template one *cough*. But most were when i was just starting, i have tried cleaning them up a bit though but still, i'll need to start from scratch if i have to make it much better.
